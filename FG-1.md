@@ -1,0 +1,70 @@
+Un estratto dalla lezione del 23/02/2026 con Piero Chessa
+
+Il professore immediatamente indica che praticare con gli esercizi è condizione necessaria per superare l'esame finale, e per imparare qualsiasi argomento di fisica in generale. L'approccio maturo alla fisica parte da una intima comprensione della relazione fra le parti in gioco, quindi, ad esempio, capire come mai una velocità diviso un tempo produce una lunghezza, o come mai due vettori sommati hanno uno specifico risultante.
+
+## 1) Grandezze e informazione:
+
+Misurare significa assumere informazione con uno strumento per esprimerla in forma di numero.
+
+Ogni misurazione porta con sé un margine di errore, dovuto alla sensibilità dello strumento di misurazione. Per questa ragione è importante indicare l'errore assoluto della misurazione insieme con la grandezza rilevata.
+
+L'errore si esprime in termine di cifre significative e un intervallo corrispondente alla sensibilità dello strumento. Un righello millimetrato da 10 cm consente ad esempio di misurare 5.0 cm $\pm$ 0.1 mm.
+#### Somma: 
+
+Per sommare due misurazioni è necessario sommare anche gli errori:
+
+Es:  5.0 cm $\pm$ 0.1 cm + 11.2 cm $\pm$ 0.1 cm = 16.2 cm $\pm$ 0.2 cm
+
+Se un errore è più grande dell'altro (particolarmente almeno di 5 volte), è possibile indicare solo l'errore più grande. 
+
+Il decimale meno significativo della somma di due grandezze è nella posizione del decimale meno significativo dell'addendo con meno cifre decimali (con stessa unità di misura).
+
+#### Prodotto:
+
+La somma degli errori relativi dei fattori è pari all'errore relativo del prodotto.
+
+Il numero di cifre significative del prodotto è pari a quello del fattore con meno cifre significative.
+
+Se vengono eseguite un grande numero di operazioni (10+) le pratiche precedenti tendono a sottostimare l'incertezza. Come contromisura, si può mantenere una cifra significativa in più durante i calcoli e poi rimuoverla alla fine.
+
+#### Ricorda:
+
+Per numeri come 200, che sarebbero altrimenti ambigui, si sottolineano le cifre significative. 
+
+Es: $2\underline{00}$ cm
+
+Se impiego numeri puri, come $\pi$, $e$, o 4, nei calcoli, questi vanno trattati come perfettamente certi, con incertezza 0, infinite cifre significative.
+
+Es: $2\underline{00} \times \pi = 628$ 
+
+### Esercizio
+
+Due auto partono dal casello e percorrono lo stesso tratto di autostrada.
+$A_1$ ha un tachimetro con sensibilità 10 $km/h$, $A_2$ ha un tachimetro con sensibilità di 1 $km/h$.
+Inoltre $A_1$ misura il tempo con un orologio con sensibilità 1 $min$, mentre $A_2$ con uno di sensibilità 10 $min$.
+
+$A_1$ procede a 120 $km/h$ per 113 $min$, $A_2$ procede a 124 $km/h$ per 110 $min$, chi ha percorso più strada?
+
+### Esercizio
+
+La disposizione di sfere più compatta occupa una frazione pari a $\frac \pi {\ \sqrt{18}}$ del volume totale. Data una damigiana di volume 5.0 $l$ e una sacca di bilie di diametro 1.00 $cm$, quanto spazio vuoto rimane fra le bilie?
+
+#### Ricorda:
+
+Per operare fra misure di una dimensione è necessario che siano entrambe espresse nella stessa unità.
+
+La pressione si trova dividendo la forza applicata su di un corpo divisa per la superficie su cui viene applicata. Uno spillo che tocca un palloncino può farlo scoppiare con poca pressione, una spugna richiede molta più pressione.
+
+#### Conversioni:
+
+- Sostituisco l'unità di misura con quella desiderata (applicando le dovute conversioni) 
+			OPPURE
+- Moltiplico l'espressione per un fattore unitario (una frazione con valore 1)
+- Eseguo un controllo di coerenza fra i valori ricevuti (se cammino circa 10 ore a circa 10 km/h mi aspetto di aver percorso circa 100 km)
+- Confronto il risultato con la mia esperienza (se sto cercando la velocità di una bicicletta e la risposta è Mach 2, forse non è corretta)
+
+#### Esercizio:
+Il mio fabbisogno calorico è di $26\underline{00}$ kcal, di cui $16\underline{00}$ kcal solo di metabolismo basale. Al contrario, la mia bolletta dell'energia elettrica indica che ho consumato 88 kW/h negli ultimi 60 giorni.
+
+Consumo più energia elettrica o energia chimica?
+

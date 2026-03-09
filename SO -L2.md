@@ -1,0 +1,100 @@
+---
+date: 2026-02-26
+tags:
+  - sistemi-operativi
+type: lezione
+---
+[[Sistemi Operativi]]
+# Sistemi Operativi: Evoluzione Hardware e Multiprogrammazione
+
+> [!NOTE] Contesto Storico
+> Agli albori dell'informatica, quando i calcolatori funzionavano ancora a valvole ed erano estremamente costosi e lenti, la presenza di un operatore umano era indispensabile per risparmiare tempo e gestire manualmente l'esecuzione.
+
+## Nuove Funzioni Hardware
+Con l'evoluzione dei sistemi di elaborazione, sono state introdotte nuove funzionalità a livello hardware per consentire al **Monitor** (il predecessore dell'odierno sistema operativo) di gestire meglio le risorse:
+* **Protezione della memoria**: Funzionalità che impedisce ai programmi utente di accedere ad aree di memoria non autorizzate.
+* **Timer**: Meccanismo che previene la monopolizzazione della CPU da parte di un singolo processo.
+* **Istruzioni privilegiate**: Particolari istruzioni di controllo che possono essere eseguite solamente dal Monitor.
+* **Interruzioni**: Eventi che permettono al sistema di sospendere l'esecuzione corrente per gestire operazioni asincrone.
+
+> [!IMPORTANT] Approfondimento del Prof: Violazione di Memoria e Interruzioni
+> In certe situazioni è strettamente necessario poter "violare" o accedere alla memoria in modo controllato durante l'esecuzione. 
+> Le **interruzioni** permettono al sistema di compiere un salto verso un'istruzione specifica, che non fa parte delle normali istruzioni utente ma del linguaggio del Monitor. Ad esempio, se un processo richiede troppo tempo per l'esecuzione (*too much time to execute*), l'interruzione restituisce il controllo al sistema.
+
+### Il Problema dell'Overhead
+L'utilizzo del Monitor ha però generato il problema dell'**Overhead** (sovraccarico di sistema):
+* Una parte significativa della memoria centrale deve essere costantemente occupata dal Monitor stesso.
+* Una frazione del tempo macchina (CPU) viene consumata dal Monitor per il suo stesso funzionamento, sottraendo tempo all'esecuzione effettiva dei programmi.
+
+---
+
+## Terza Generazione (1965–1980)
+La terza generazione di calcolatori è segnata dall'introduzione dei **circuiti integrati**.
+
+> [!NOTE] Nota del Prof sui Circuiti Integrati
+> I circuiti integrati sono costituiti da piastre di silicio che contengono migliaia di transistor. Questo ha permesso di costruire computer molto più potenti e decisamente meno dispendiosi in termini di energia.
+
+### La Multiprogrammazione
+L'innovazione software chiave di questo periodo è la **multiprogrammazione**. È nata per risolvere l'enorme spreco di tempo della CPU durante le operazioni di Input/Output.
+
+Ecco un esempio di quanto fosse inefficace l'esecuzione sequenziale:
+* Lettura di un record: 15 micros 
+* Esecuzione di 100 istruzioni: 1 micros 
+* Scrittura di un record: 15 micros 
+* **Totale**: 31 micros 
+* **Utilizzo reale della CPU**: 1/31 = 3.2% 
+
+#### Uniprogramming vs Multiprogramming
+* **Uniprogramming**: I processi vengono eseguiti uno alla volta, in modo strettamente sequenziale.
+* **Multiprogramming**: Si caricano più job contemporaneamente in memoria e si assegna a turno la CPU ai vari processi.
+
+> [!EXAMPLE] Dinamica di Assegnazione delle Risorse
+> Immaginiamo 3 job che necessitano di risorse diverse. Nella multiprogrammazione, il sistema li carica tutti in memoria contemporaneamente, purché lo spazio sia sufficiente e periferiche come disco e stampante non debbano essere utilizzate nello stesso esatto momento. Se il primo job si blocca in attesa di un I/O e non usa la CPU, questa risorsa non rimane inattiva, ma viene assegnata al processo successivo pronto per l'esecuzione.
+
+### I Problemi della Multiprogrammazione
+Questo approccio ha introdotto nuove sfide architetturali e di gestione:
+1. **Gestione della memoria**: 
+   * > [!IMPORTANT] Dettaglio del Prof: Limiti di Spazio
+     > Nell'esempio precedente la memoria richiesta era sufficiente, ma nella realtà, se si attivano numerosi processi, questi potrebbero non entrare fisicamente nella memoria disponibile, richiedendo tecniche di gestione avanzate.
+2. **Scheduling**: Determinare come, quando e a chi assegnare il processore.
+   * > [!IMPORTANT] Dettaglio del Prof: Il Context Switch
+     > Quando la CPU passa dal primo processo agli altri a ruota, il sistema operativo deve "togliere" il processo corrente dal processore. Questo genera il problema di dover salvare i dati di stato del processo uscente, per poi poterli ripristinare in modo trasparente quando il processo otterrà nuovamente il turno di esecuzione.
+
+---
+
+## Il Time-Sharing
+Il **Time-sharing** (condivisione del tempo) è un paradigma sviluppato per supportare la gestione di più lavori interattivi:
+* Permette a calcolatori potenti di supportare più utenti contemporaneamente sulla stessa macchina.
+* Il processore viene condiviso in modo fluido tra tutti gli utenti attivi.
+* L'accesso avviene simultaneamente attraverso l'uso di terminali.
+* Il sistema operativo alterna rapidamente l'esecuzione di ciascun programma utente assegnando un **quanto di elaborazione** (un breve periodo di tempo).
+* Esempio storico notevole: il sistema **CTSS** (Compatible Time-Sharing System).
+
+### Multiprogrammazione vs Time-Sharing
+Pur condividendo principi di esecuzione concorrente, hanno finalità diverse:
+
+| Caratteristica | Multiprogrammazione | Time-Sharing |
+| :--- | :--- | :--- |
+| **Obiettivo Principale** | Massimizzare l'uso del processore (massimizzare i lavori completati) | Minimizzare il tempo di risposta percepito dall'utente |
+| **Istruzioni al SO** | **JCL** (Job Control Language): istruzioni preparate in anticipo e fornite insieme al job | Comandi interattivi inseriti direttamente dall'utente al terminale |
+
+---
+
+## Quarta e Quinta Generazione
+### Quarta Generazione (1980 - oggi)
+* Nasce con l'introduzione della tecnologia **LSI** (Integrazione su larga scala).
+* Vede la nascita e la diffusione di massa dei **Personal Computer**.
+* È caratterizzata dallo sviluppo di un'**interfaccia amichevole** (user-friendly) per avvicinare l'informatica al grande pubblico.
+
+### Quinta Generazione (1990 - oggi)
+* Dominata dall'avvento di dispositivi mobili come gli **smartphone**.
+* Impone nuovi vincoli fisici e progettuali:
+  * Gestione dell'**energia limitata**.
+  * Integrazione e gestione di **nuovi dispositivi**.
+
+> [!NOTE] Nuovi Dispositivi
+> I moderni sistemi operativi mobili devono tenere costantemente conto dell'energia utilizzata, dei forti limiti della **memoria** a disposizione e della presenza di innumerevoli componenti hardware aggiuntive, come i **sensori**, che richiedono driver e gestioni specifiche.
+
+
+---
+◀️ *Back to:* [[00_Index_OS]]
