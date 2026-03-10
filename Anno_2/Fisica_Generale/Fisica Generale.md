@@ -4,9 +4,9 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 
 Notare che le lezioni del venerdì sono esercizi.
 
-[[FG-1]] - Introduzione al corso, definizioni, grado di insicurezza, unità di misura
-[[FG-2]] - Sistemi di riferimento e Vettori, chiralità, operazioni fra vettori
-[[FG-3]]
-[[FG-4]]
-[[FG-5]]
-[[FG-6]]
+[[FG-01]] - Introduzione al corso, definizioni, grado di insicurezza, unità di misura
+[[FG-02]] - Sistemi di riferimento e Vettori, chiralità, operazioni fra vettori
+[[FG-03]]
+[[FG-04]]
+[[FG-05]]
+[[FG-06]]
