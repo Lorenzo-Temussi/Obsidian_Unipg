@@ -1,0 +1,35 @@
+# ========================
+# Obsidian Specific
+# ========================
+# Ignore user-specific workspace layouts but keep shared settings/plugins if any
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/bookmarks.json
+.obsidian/graph.json
+.obsidian/
+
+# ========================
+# OS Generated Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========================
+# LaTeX Build Files
+# ========================
+# Ignore the messy files LaTeX generates when compiling
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fls
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
