@@ -2,10 +2,6 @@
 # Obsidian Specific
 # ========================
 # Ignore user-specific workspace layouts but keep shared settings/plugins if any
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/bookmarks.json
-.obsidian/graph.json
 .obsidian/
 
 # ========================
@@ -22,7 +18,7 @@ Thumbs.db
 # ========================
 # LaTeX Build Files
 # ========================
-# Ignore the messy files LaTeX generates when compiling
+# Ignore the files LaTeX generates when compiling
 *.aux
 *.bbl
 *.bcf

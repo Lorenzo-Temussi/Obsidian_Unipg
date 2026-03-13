@@ -19,7 +19,7 @@ Per avere tutto pronto sul tuo PC in 4 semplici passi:
    ```
 2. **Scarica e apri [Obsidian](https://obsidian.md/)**.
 3. Nella schermata iniziale di Obsidian, clicca su **"Apri cartella come vault"** (*Open folder as vault*) e seleziona la cartella che hai appena clonato.
-4. **Inizia l'esplorazione!** Una volta aperto il vault, clicca sul file dell'Indice Generale (es. `00_Indice_Generale.md`) per avere la mappa completa e navigare facilmente tra i vari anni e semestri.
+4. **Inizia l'esplorazione!** Una volta aperto il vault, clicca sul file dell'Indice Generale [[UNIPG]] per avere la mappa completa e navigare facilmente tra i vari anni e semestri.
 
 ---
 
@@ -27,21 +27,19 @@ Per avere tutto pronto sul tuo PC in 4 semplici passi:
 
 Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione di una pagina? Per mantenere la cattedrale in ordine ed evitare fastidiosi conflitti su Git, usiamo un metodo semplicissimo basato su **sottocartelle personali**.
 
-Facciamo un esempio. Mettiamo che tu ti chiami Davide e voglia aggiungere i tuoi appunti di *Sistemi Operativi*:
-
 1. **Sincronizzati e crea un branch:**
    ```bash
    git pull origin main
    git checkout -b aggiunta-appunti-davide
    ```
-2. **Crea la tua cartella:** Vai nella cartella del corso (`Anno_2/Sistemi_Operativi/`) e crea una sottocartella tutta tua, ad esempio `appunti_davide` (o `appunti_d`).
-3. **Metti lì i tuoi file:** Salva tutti i tuoi file `.md`, i tuoi PDF e le tue immagini dentro la tua cartella `appunti_davide`. In questo modo sei libero di organizzarli come preferisci senza fare confusione con i file degli altri.
-4. **Aggiorna l'Indice del corso:** Apri il file indice principale di Sistemi Operativi (es. `Sistemi Operativi con Laboratorio.md`) e aggiungi i link ai tuoi file usando la sintassi di Obsidian `[[Nome del tuo file]]`, scrivendo chiaramente che sono i tuoi appunti.
+2. **Crea la tua cartella:** Vai nella cartella del corso (`Anno_X/Corso_Sigma/`) e crea una sottocartella tutta tua, ad esempio `appunti_tuo-nome` (o `appunti_n`).
+3. **Metti lì i tuoi file:** Salva tutti i tuoi file `.md`, i tuoi PDF e le tue immagini dentro la tua cartella `appunti_tuo-nome`. In questo modo sei libero di organizzarli come preferisci senza fare confusione con i file degli altri.
+4. **Aggiorna l'Indice del corso:** Apri il file indice principale del corso in quesitone e aggiungi i link ai tuoi file usando la sintassi di Obsidian `[[Nome del tuo file]]`, scrivendo chiaramente che sono i tuoi appunti.
 5. **Manda tutto online!** Fai commit, pusha il tuo branch e apri una Pull Request verso il `main`:
    ```bash
    git add .
-   git commit -m "Aggiunti appunti di Davide per Sistemi Operativi"
-   git push origin aggiunta-appunti-davide
+   git commit -m "Aggiunti appunti di Tuo-Nome per Sistemi Operativi"
+   git push origin aggiunta-appunti-Tuo-nome
    ```
 
-*(P.S. Cerca di dare nomi chiari ai file. Ricorda di ignorare la tua cartella `.obsidian` personale e di non pushare i file spazzatura di compilazione generati da LaTeX!!!)*
+*(P.S. Cerca di dare nomi chiari ai file. Ricorda di ignorare la tua cartella `.obsidian` personale e di non pushare i file spazzatura)*
