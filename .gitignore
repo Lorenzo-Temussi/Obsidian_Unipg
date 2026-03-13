@@ -1,12 +1,6 @@
-# ========================
-# Obsidian Specific
-# ========================
-# Ignore user-specific workspace layouts but keep shared settings/plugins if any
+# Obsidian# Ignore user-specific workspace layouts
 .obsidian/
-
-# ========================
 # OS Generated Files
-# ========================
 .DS_Store
 .DS_Store?
 ._*
@@ -14,10 +8,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# ========================
-# LaTeX Build Files
-# ========================
 # Ignore the files LaTeX generates when compiling
 *.aux
 *.bbl

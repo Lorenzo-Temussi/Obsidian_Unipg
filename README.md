@@ -15,11 +15,11 @@ Per avere tutto pronto sul tuo PC in 4 semplici passi:
 
 1. **Clona il progetto** sul tuo computer (apri il terminale nella cartella in cui vuoi salvare gli appunti):
    ```bash
-   git clone [https://github.com/Lorenzo-Temussi/Obsidian_Unipg.git](https://github.com/Lorenzo-Temussi/Obsidian_Unipg)
+   git clone (https://github.com/Lorenzo-Temussi/Obsidian_Unipg)
    ```
 2. **Scarica e apri [Obsidian](https://obsidian.md/)**.
 3. Nella schermata iniziale di Obsidian, clicca su **"Apri cartella come vault"** (*Open folder as vault*) e seleziona la cartella che hai appena clonato.
-4. **Inizia l'esplorazione!** Una volta aperto il vault, clicca sul file dell'Indice Generale [[UNIPG]] per avere la mappa completa e navigare facilmente tra i vari anni e semestri.
+4. **Inizia l'esplorazione!** Una volta aperto il vault, clicca sul file indice generale **UNIPG.md** per avere la mappa completa e navigare facilmente tra i vari anni e semestri.
 
 ---
 
@@ -30,7 +30,7 @@ Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione d
 1. **Sincronizzati e crea un branch:**
    ```bash
    git pull origin main
-   git checkout -b aggiunta-appunti-davide
+   git checkout -b aggiunta-appunti-Tuo-Nome
    ```
 2. **Crea la tua cartella:** Vai nella cartella del corso (`Anno_X/Corso_Sigma/`) e crea una sottocartella tutta tua, ad esempio `appunti_tuo-nome` (o `appunti_n`).
 3. **Metti lì i tuoi file:** Salva tutti i tuoi file `.md`, i tuoi PDF e le tue immagini dentro la tua cartella `appunti_tuo-nome`. In questo modo sei libero di organizzarli come preferisci senza fare confusione con i file degli altri.
@@ -38,7 +38,7 @@ Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione d
 5. **Manda tutto online!** Fai commit, pusha il tuo branch e apri una Pull Request verso il `main`:
    ```bash
    git add .
-   git commit -m "Aggiunti appunti di Tuo-Nome per Sistemi Operativi"
+   git commit -m "Aggiunti appunti di Tuo-Nome per Corso Sigma"
    git push origin aggiunta-appunti-Tuo-nome
    ```
 
