@@ -34,7 +34,7 @@ Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione d
    ```
 2. **Crea la tua cartella:** Vai nella cartella del corso (`Anno_X/Corso_Sigma/`) e crea una sottocartella tutta tua, ad esempio `appunti_tuo-nome` (o `appunti_n`).
 3. **Metti lì i tuoi file:** Salva tutti i tuoi file `.md`, i tuoi PDF e le tue immagini dentro la tua cartella `appunti_tuo-nome`. In questo modo sei libero di organizzarli come preferisci senza fare confusione con i file degli altri.
-4. **Aggiorna l'Indice del corso:** Apri il file indice principale del corso in quesitone e aggiungi i link ai tuoi file usando la sintassi di Obsidian `[[Nome del tuo file]]`, scrivendo chiaramente che sono i tuoi appunti.
+4. **Aggiorna l'Indice del corso:** Apri il file indice principale del corso in questione e aggiungi i link ai tuoi file usando la sintassi di Obsidian `[[Nome del tuo file]]`, scrivendo chiaramente che sono i tuoi appunti.
 5. **Manda tutto online!** Fai commit, pusha il tuo branch e apri una Pull Request verso il `main`:
    ```bash
    git add .

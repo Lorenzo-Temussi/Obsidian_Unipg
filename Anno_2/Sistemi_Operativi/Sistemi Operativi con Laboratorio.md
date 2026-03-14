@@ -3,5 +3,5 @@ Un esame [[UNIPG]] che esplora il funzionamento dei Sistemi Operativi, con parti
 Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50349)
 
 [[SO-01]] - Unix, Linux, bash e root users
-[[SO-02]]
+[[SO-02]] - Evoluzione hardware e Multiprogrammazione
 

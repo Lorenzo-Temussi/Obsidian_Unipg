@@ -6,8 +6,6 @@ date: 2026-02-25
 
 # Introduzione
 
-
-
 > [!note] Libro di testo principale:
 >  I. Sommerville, Software Engineering, 9th ed.
 
@@ -46,7 +44,7 @@ Chiameremo questi problemi strutturali che si presentano nei sistemi reali, e no
 
 Sistemi del genere richiedono la collaborazione efficace di molti individui, un mantenimento up-to-date attraverso le ere informatiche,  e una quantità di manutenzione che spesso viene a costare quattro volte il budget di sviluppo.
 
-Per garantire una serie di buone scelte progettuali, che allungano la vita del software, si raccomanda di seguire un percorso di:
+Per garantire una serie di buone scelte progettuali, che allungano la vita del software, si raccomanda di seguire un ciclo di:
 
 Raccolta requisiti ->
 Progettazione soluzioni ->
@@ -59,7 +57,7 @@ Si comincia da una reale comprensione del problema da risolvere, e le esigenze d
 
 Nel caso emergano nuove esigenze durante questo processo, vanno esaminate anche esse.
 
-Fra il backend (comunicazione con i server) e il frontend (interfacce utente) del software, è bene ricordare che il primo è il vero nocciolo del servizio, ma non curare il secondo comporta la mancata espressione dei pieni benefici del primo.
+Per quanto riguarda la relazione fra il backend (comunicazione con i server) e il frontend (interfacce utente) del software, è bene ricordare che il primo è il vero nocciolo del programma, ma non curare il secondo comporta la mancata espressione dei pieni benefici del primo.
 
 ### La guerra contro l'entropia
 
