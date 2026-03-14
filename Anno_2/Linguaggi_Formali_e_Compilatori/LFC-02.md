@@ -10,7 +10,7 @@ date: 2026-02-27
 
 Ogni descrizione di qualsiasi cosa avviene tramite la mediazione di un linguaggio, composto di parole. Descrivere un linguaggio finito è semplice, basta elencare le parole che contiene, ma un linguaggio infinito?
 
-Il Teorema di Cantor sostiene che non esista una funzione iniettiva di $\mathcal{P}(\Sigma^{*_*})$ in $\Sigma^{*}$, ovvero che non sia possibile associare ad ogni linguaggio una sua descrizione univoca.
+Il Teorema di Cantor sostiene che non esista una funzione iniettiva di $\mathcal{P}(\Sigma^{*})$ in $\Sigma^{*}$, ovvero che non sia possibile associare ad ogni linguaggio una sua descrizione univoca.
 
 Di alcuni linguaggi infiniti è tuttavia possibile dare una descrizione finita, in particolare dato un linguaggio $\mathbf{L}$, il linguaggio $\mathbf{L}^{*}$ dato da tutte le combinazioni di parole in $\mathbf{L}$, ovvero la sua chiusura di Kleene, è sia ben definito che, tipicamente, infinito.
 
