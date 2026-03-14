@@ -1,24 +1,10 @@
 ---
-<<<<<<< HEAD:DPI-4.md
-subject: Diritto Privato dell'Informatica
-date: 2026-02-18
-tags: [privacy, diritti, sorveglianza]
----
----
-subject: Diritto Privato dell'Informatica
-date: 2026-02-18
-tags: [privacy, diritti, sorveglianza]
----
-=======
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
+date: 2026-02-12
 ---
 Da [[Diritto Privato dell'Informatica]], in data 18/02/2026.
->>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-04.md
 
-# ⚖️ Da Diritto Privato dell'Informatica, in data 18/02/2026.
-
----
 
 ### 👤 Soggetti e Tipologie di Diritti
 
@@ -95,3 +81,7 @@ Per accertare la liceità del trattamento dei dati è sufficiente che si verific
 6. legittimo interesse del fornitore o di terzi se non impedisce la libertà dell'interessato. Questa condizione non si applica alla PA.
 
 In Cile esistono leggi che tutelano anche i Neurodati del Cittadino, che se non regolati rischiano di scatenare una corsa alle armi nel mercato dei dispositivi di enhancement mentale.
+
+---
+
+◀️ *Back to [[Diritto Privato dell'Informatica]].*

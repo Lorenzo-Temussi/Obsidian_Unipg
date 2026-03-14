@@ -1,19 +1,9 @@
 ---
-<<<<<<< HEAD:DPI-5.md
-subject: Diritto Privato dell'Informatica
-date: 2026-02-23
-tags: [minori, diritto, identità_digitale]
----
-=======
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
+date: 2026-02-23
 ---
 Da [[Diritto Privato dell'Informatica]], in data 23/02/2026.
->>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-05.md
-
-# ⚖️ Da [[Diritto Privato dell'Informatica]], in data 23/02/2026.
-
----
 
 ### 👶 Capacità e Rappresentanza
 Alla nascita si guadagna l'attitudine in potenza ad agire, ma essa è legalmente riconosciuta solo al raggiungimento della maggiore età.
@@ -61,3 +51,7 @@ In Italia l'età del consenso è 14 anni (il massimo e minimo riconosciuti in Eu
 Essendo i genitori dei minori responsabili delle lesioni causate da loro mediante bullismo, si raccomanda ai genitori di controllare e limitare le attività online dei figli con software che non funzionano. Ah inoltre le app hanno un'età consigliata in descrizione che indica quanto siano pericolose.
 
 Inoltre i family bloggers stanno sfruttando i dati personali dei figli senza valida giustificazione e la devono smettere.
+
+---
+
+◀️ *Back to [[Diritto Privato dell'Informatica]].*

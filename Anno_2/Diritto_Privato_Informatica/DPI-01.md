@@ -1,21 +1,12 @@
 ---
-<<<<<<< HEAD:DPI-1.md
-subject: Diritto Privato dell'Informatica
-date: 2026-02-09
-tags: [sicurezza, gerarchia_fonti, UE, legislazione]
----
-=======
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
+date: 2026-02-09
 ---
 Da [[Diritto Privato dell'Informatica]], in data 09/02/2026.
->>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-01.md
 
-# 🏛️ Da [[Diritto Privato dell'Informatica]], in data 09/02/2026.
 
----
-
-La sicurezza informatica italiana è affidata a Russia e Israele (i nostri migliori amici).
+## La Legge
 
 Ogni legge/norma ha dei limiti di applicazione:
 
@@ -61,3 +52,7 @@ L'UE può produrre Direttive e Regolamenti:
 
 *   **I Regolamenti** sono immediatamente validi per ogni paese UE e sono pubblicati in ogni lingua nella gazzetta dell'UE, ciascuna valida in sé.
 *   **Le Direttive** indicano una direzione generale che è richiesto agli stati di seguire, con l'aspettativa che modificheranno le loro leggi per adeguarsi alle decisioni dell'Unione. Per via di ciò, due paesi diversi, nel seguire una stessa direttiva, possono finire a produrre leggi diverse fra loro.
+
+---
+
+◀️ *Back to [[Diritto Privato dell'Informatica]].*

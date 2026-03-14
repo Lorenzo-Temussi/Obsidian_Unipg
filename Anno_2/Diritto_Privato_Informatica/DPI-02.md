@@ -1,19 +1,10 @@
 ---
-<<<<<<< HEAD:DPI-2.md
-subject: Diritto Privato dell'Informatica
-date: 2026-02-11
-tags: [codice_civile, AI, UE, filosofia]
----
-=======
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
+date: 2026-02-11
 ---
 Da [[Diritto Privato dell'Informatica]], in data 11/02/2026.
->>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-02.md
 
-# 🏛️ Da Diritto Privato dell'Informatica, in data 11/02/2026.
-
----
 
 ### 📖 Il Codice Civile e la Persona
 
@@ -63,3 +54,7 @@ La professoressa presenta poi la nozione che "tanto l'AI sarà il futuro e bisog
 La categoria di Sistemi AI addestrata tramite reti neurali (Machine/Deep Learning) produce output senza direzione, ma riceve un feedback alla fine. Questa categoria comprende i GPT. I GPT sono stati addestrati su ogni file possibile e immaginabile, e sono considerati un "pappagallo stocastico", ovvero macchine capaci di produrre risultati che suonano sensati, ma ovviamente non seguono una logica ferrea.
 
 La professoressa suggerisce di leggere: [Pensieri Lenti e Veloci](https://www.ibs.it/pensieri-lenti-veloci-libro-daniel-kahneman/e/9788861845343) del Nobel Kahneman, testo fondamentale del marketing moderno. In breve il libro rivela che il ragionamento umano si muove solitamente su due binari, uno reattivo e uno più complesso.
+
+---
+
+◀️ *Back to [[Diritto Privato dell'Informatica]].*

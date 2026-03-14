@@ -1,19 +1,10 @@
 ---
-<<<<<<< HEAD:DPI-3.md
-subject: Diritto Privato dell'Informatica
-date: 2026-02-16
-tags: [AI, copyright, AI-Act, diritto_autore]
----
-=======
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
+date: 2026-02-16
 ---
 Da [[Diritto Privato dell'Informatica]], in data 16/02/2026.
->>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-03.md
 
-# 🤖 Da Diritto Privato dell'Informatica, in data 16/02/2026.
-
----
 
 ### 🧠 Definizioni e Sistemi
 
@@ -87,3 +78,7 @@ Su [Normattiva](https://www.normattiva.it/) è possibile visualizzare la legge v
 Per tutelare l'opera dell'ingegno, agli artisti che usano AI nella realizzazione dei propri lavori viene riconosciuto il Diritto d'Autore sugli stessi, e schiaffo morale tremendo, agli artisti online è chiesto di esprimere attivamente il dissenso per l'utilizzo della propria arte nell'addestramento di sistemi AI.
 
 In Danimarca e altri paesi la "likeness", cioè l'aspetto e la voce della persona è protetta, mentre in Italia l'impersonamento tramite AI (deepfake) costituisce reato. Entrambe le norme vogliono tutelare l'identità del cittadino nell'epoca digitale.
+
+---
+
+◀️ *Back to [[Diritto Privato dell'Informatica]].*
