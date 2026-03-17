@@ -4,7 +4,9 @@
 > **Professore:** Stefania Stefanelli
 > **Anno/Semestre:** 2° Anno, 2° Semestre
 > **CFU:** 6
-> 🔗 [[Pagina UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=49804) 
+> 
+> 🔗 [[Pagina UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=49804)
+>  
 > **Descrizione**: Un esame di [[UNIPG]] che esplora la dimensione legale delle nuove tecnologie, particolarmente per quanto concerne profili social e IA.
 
 
@@ -22,9 +24,13 @@
 * [[DPI-04]] - Privacy e perché è importante
 * [[DPI-05]] - Capacità di Agire e Autenticazione Online
 * [[DPI-06]] - Protezione e Trattamento dei Dati Personali, Contratti
-* [[DPI-07]] - 
+* [[DPI-07]] - Morte, Testamento e Piattaforme digitali 
 * [[DPI-08]] - 
-* [[DPI-09]] - 
+* [[DPI-09]] - Responsabilità e Contatto Sociale
+* [[DPI-10]] - Citazione in giudizio e Danno cagionato da trattamento di dati personali
+* [[DPI-11]]
+* [[DPI-12]]
+* 
 
 ---
 ## 📁 Mappe di Alberto
