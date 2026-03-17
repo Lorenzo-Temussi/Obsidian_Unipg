@@ -26,8 +26,8 @@ La soluzione a questo quesito è il riconoscimento di una eredità, con cui i be
 In ogni momento della sua vita, in ogni caso, il decuius può lasciare una documentazione delle sue volontà e disposizioni da seguire dopo la sua morte, comunemente nota come "testamento".
 
 Non ogni documento ha valore di testamento però, ci sono delle restrizioni sulla forma e il contenuto del testo, per cui un testamento deve:
-- Essere olografo, datato e sottoscritto dal decuius     OPPURE
-- Essere steso dal decuius in compagnia di un notaio e almeno due testimoni, vincolati da obbligo di segretezza, e sottoscritto da tutti e quattro (forma preferita, poiché il notaio può correggere varie formule ambigue o errate prodotte dal decuius)    OPPURE
+- Essere olografo, datato e sottoscritto dal decuius     **OPPURE**
+- Essere steso dal decuius in compagnia di un notaio e almeno due testimoni, vincolati da obbligo di segretezza, e sottoscritto da tutti e quattro (forma preferita, poiché il notaio può correggere varie formule ambigue o errate prodotte dal decuius)                         **OPPURE**
 - Essere steso dal decuius in segreto e consegnato ufficialmente ad un notaio in presenza di due testimoni, che testimoniano la consegna.
 
 >[!quote] Paperon de Paperoni
