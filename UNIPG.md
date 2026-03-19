@@ -27,7 +27,7 @@ Clicca sui link qui sotto per saltare direttamente all'indice del corso che ti i
 ### Semestre 1
 * [[Calcolo Numerico]]
 * [[Algoritmi e Strutture Dati 1]]
-* [[Calcolo delle Probabilità e Statistica Matematica]]
+* [[Calcolo delle Probabilità e Statistica Matematica 1]]
 
 ### Semestre 2
 * [[Diritto Privato dell'Informatica]]
