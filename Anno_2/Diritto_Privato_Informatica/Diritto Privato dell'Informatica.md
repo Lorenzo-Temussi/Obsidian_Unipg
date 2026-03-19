@@ -46,3 +46,22 @@
 - [[doc2-it-risk-management.png]]
 - [[doc3-risk-management.png]]
 - [[slide-fonti-del-diritto.png]]
+
+---
+# 🤖 Appunti di Davide Maracaglia
+
+Riassunti di Davide **formattati utilizzando Gemini Pro 3.1 partendo da appunti presi durante le lezioni** (ovviamente il contenuto è stato revisionato).
+
+>[!warning] Affidabilità:
+>Non essendo uno studente di Giurisprudenza non sono un esperto, potrebbbero esserci buchi dentro le lezioni causa mia distrazione.
+
+- [[01_INTRODUZIONE_ORDINAMENTO_FONTI]] | *Date: 2026-02-09*
+- [[02_AI-ACT-SOGGETIVITA-GIURIDICA]] | *Date: 2026-02-11*
+- [[03_AI-ACT-DIRITTO-AUTORE]] | *Date: 2026-02-16*
+- [[04_DATA-PROTECION-DIRITTI-FOND]] | *Date: 2026-02-18*
+- [[05_CAPACITA-AGIRE-GENITORI-MINORI]] | *Date: 2026-02-23*
+- [[06_Trattamento_dati_Normative_Contrattuali]] | *Date: 2026-02-25*
+- [[07_Fondamenti_Cybersicurezza]] | *Date: 2026-03-02*
+- [[08_Successione]] | *Date: 2026-03-04*
+- [[09_Responsabilità_Piattaforme]] | *Date: 2026-03-09*
+- [[10_Responsabilita_Civile]] | *Date: 2026-03-16*
