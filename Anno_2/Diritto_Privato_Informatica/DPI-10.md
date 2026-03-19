@@ -22,6 +22,7 @@ Il giudice può pronunciarsi esclusivamente sulla materia dell'atto.
 >**Imputato:** persona fisica che subisce un danno.
 >**Danno emergente:** perdita patrimoniale.
 >**Mancato Lucro:** danno patrimoniale causato in seguito ad un evento di qualche tipo. L'esempio più comune potrebbe essere un idraulico che guadagna intorno ad una certa cifra ogni mese che viene investito da una macchina e non può lavorare per un periodo di tempo, durante il quale era possibile aspettarsi che avrebbe lavorato e guadagnato allo stesso ritmo di prima.
+>**Vocatio in Ius:** citazione in giudizio.
 
 L'attore deve provare anche il nesso di consequenzialità del caso, ovvero la logica secondo la quale le azioni compiute o mancate del convenuto, opposte alla legge, hanno cagionato il danno. 
 Solitamente questo nesso deve provare una consequenzialità immediata e diretta.

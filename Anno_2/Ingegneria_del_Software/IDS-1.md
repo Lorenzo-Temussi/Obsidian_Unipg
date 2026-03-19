@@ -1,6 +1,7 @@
 ---
 autore: Lorenzo Temussi
 date: 2026-02-25
+fonte: Appunti a lezione
 ---
 ◀️ _Back to:_ [[Ingegneria del Software]]
 
@@ -15,11 +16,13 @@ date: 2026-02-25
 • R. C. Martin, Clean Architecture
 • M. Fowler, Refactoring, 2nd ed.
 
+---
+
 > [!warning] Nota Bene
 > La lezione fa riferimento a contenuti presenti nel capitolo 1 del Sommerville
 
 
-L'esame richiederà la creazione di un progetto e successiva presentazione e discussione ad opera di un team di non più di tre studenti. Idealmente andrebbe accompagnato da una presentazione in beamer {link} Latex.
+L'esame richiederà la creazione di un progetto e successiva presentazione e discussione ad opera di un team di non più di tre studenti. Idealmente andrebbe accompagnato da una presentazione in [beamer Latex](https://www.overleaf.com/learn/latex/Beamer_Presentations%3A_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Getting_Started) .
 
 L'utilizzo di IA è consentito, ma va adoperata con saggezza.
 
