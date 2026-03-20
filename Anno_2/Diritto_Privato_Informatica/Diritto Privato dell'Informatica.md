@@ -65,3 +65,18 @@ Riassunti di Davide **formattati utilizzando Gemini Pro 3.1 partendo da appunti 
 - [[08_Successione]] | *Date: 2026-03-04*
 - [[09_Responsabilità_Piattaforme]] | *Date: 2026-03-09*
 - [[10_Responsabilita_Civile]] | *Date: 2026-03-16*
+
+---
+# 💻 Appunti di Filippo Castagnola
+
+Riassunti di Filippo, presi durante le lezioni in presenza e formattati in seguito.
+
+>[!warning] Affidabilità:
+> Gli appunti di per se non sono della migliore qualità ma, messi a confronto con quelli presi dai colleghi, le eventuali lacune presenti (che siano per assenza durante le lezioni o per mancata attenzione) vengono coperte.
+
+- [[01 Diritto]]
+- [[02 Diritto - Diritti d'autore]]
+- [[03 Diritto 18-02]]
+- [[04 Diritto 23-02]]
+- [[05 Diritto - Contratti]]
+- [[06 Diritto - Testamenti]]
