@@ -41,7 +41,7 @@ Di alcuni linguaggi infiniti è tuttavia possibile dare una descrizione finita, 
     - $v$ è **fattore proprio** di $w$ se $v \neq w$.
         
 - **Linguaggio formale:** ogni sottoinsieme di $\Sigma^{*}$.
-    
+
 
 > [!NOTE] Vocabolario, Alfabeti e Produzioni  
 > Se abbiamo un alfabeto finito $V$ (Vocabolario totale), $\Sigma \subseteq V$ (alfabeto dei simboli terminali), un insieme di produzioni $P$ (finite, della forma $\alpha \rightarrow \beta$ con $\alpha \in V^{*} \setminus \Sigma^{*}$ e $\beta \in V^{*}$) e simbolo iniziale $S \in N = V \setminus \Sigma$, possiamo definire una **grammatica a struttura di frase**:
@@ -60,7 +60,10 @@ Posti $\alpha, \beta \in V^{*}$:
 - Le conseguenze del simbolo iniziale $S$ si dicono **forme sentenziali**.
     
 - Il **Linguaggio Generato** da $G$ è l’insieme delle forme sentenziali prive di variabili.
-    
+
+>[!bug] Jihad Butleriana contro ChatGPT
+>Uh oh sembra che l'IA abbia sfanculazzato gli appunti sopra questa box, e io ho cancellato l'originale, qualcuno può rimediare?
+
 
 ---
 
@@ -73,7 +76,7 @@ Posti $\alpha, \beta \in V^{*}$:
 - Parole sull’alfabeto $V$: $\alpha, \beta, \gamma, ...$
     
 - Parole sull’alfabeto $\Sigma$: $u, v, w, ...$
-    
+
 
 ---
 
@@ -82,32 +85,15 @@ Posti $\alpha, \beta \in V^{*}$:
 $G = \langle V, \Sigma, P, S \rangle$
 
 - $N = {\langle frase \rangle, \langle listaNomi \rangle, \langle fineLista \rangle, \langle nome \rangle}$
-    
+
 - $\Sigma = {\text{'Aldo', 'Bianca', 'Carlo', 'e', ',', ' '}}$
-    
+
 - $V = N \cup \Sigma$
-    
-- $P = \{$
-    
-    - $\langle nome \rangle \rightarrow \langle Aldo \rangle$
-        
-    - $\langle nome \rangle \rightarrow \langle Bianca \rangle$
-        
-    - $\langle nome \rangle \rightarrow \langle Carlo \rangle$
-        
-    - $\langle frase \rangle \rightarrow \langle nome \rangle$
-        
-    - $\langle frase \rangle \rightarrow \langle listaNomi \rangle \langle fineLista \rangle$
-        
-    - $\langle listaNomi \rangle \rightarrow \langle nome \rangle$
-        
-    - $\langle listaNomi \rangle \rightarrow \langle nome \rangle, \langle listaNomi \rangle$
-        
-    - $, \langle nome \rangle \langle fineLista \rangle \rightarrow e \langle nome \rangle$  
-        $\}$
-        
+
+- $P = \{$ $\langle nome \rangle \rightarrow \langle Aldo \rangle$,  $\langle nome \rangle \rightarrow \langle Bianca \rangle$,  $\langle nome \rangle \rightarrow \langle Carlo \rangle$,  $\langle frase \rangle \rightarrow \langle nome \rangle$, $\langle frase \rangle \rightarrow \langle listaNomi \rangle \langle fineLista \rangle$, $\langle listaNomi \rangle \rightarrow \langle nome \rangle$, $\langle listaNomi \rangle \rightarrow \langle nome \rangle, \langle listaNomi \rangle$, $\langle nome \rangle \langle fineLista \rangle \rightarrow e \langle nome \rangle$  $\}$
+
 - $S = \langle frase \rangle$
-    
+
 
 > [!EXAMPLE] Frase generata  
 > In questo caso, questo linguaggio formale $G$ ci consente di scrivere varie frasi diverse.  
