@@ -23,7 +23,7 @@ La successione di eventi che portano a questo risultato, che chiameremo fiducios
 - Negli ultimi anni i servizi di intelligence (in realtà penso parliamo principalmente di sensori installati ovunque a questo punto) stanno producendo MOLTI più dati di quanti la mente umana sia in grado di interpretare in tempo utile.
 - Per questa ragione gli USA hanno iniziato a fare ricorso a GPT per parsare i dati ottenuti.
 - Poiché le IA hanno un penchant particolare per la violazione dei diritti umani, Microsoft addestra il proprio modello Claude trapanandogli nel cervello la dichiarazione internazionale dei diritti dell'uomo e altre opere letterarie similmente edificanti.
-- Visto che questo modello è così umanitario, Palantir, una società che produce (a tutti gli effetti) infrastrutture centralizzate di spionaggio dei cittadini, e che è ammanicata oltre ogni dire con il governo USA corrente, decide di utilizzarlo come base, insieme ad altre tecnologie, per il proprio prodotto Maven Smart System.
+- Visto che questo modello è così umanitario, Palantir, una società che produce (a tutti gli effetti) infrastrutture centralizzate di spionaggio dei cittadini americani, e che è ammanicata oltre ogni dire con il governo USA corrente, decide di utilizzarlo come base, insieme ad altre tecnologie, tra cui il Percettrone, per il proprio prodotto Maven Smart System.
 - Il ministero della Difesa US impiega questa tecnologia per segnalare obiettivi interessanti da annientare durante le azioni militari.
 - Gli US entrano in guerra contro l'Iran su diretta richiesta di Israele e per i propri obiettivi strategici.
 - Gli US polverizzano una scuola elementare con 180 persone all'interno.
@@ -59,7 +59,7 @@ Ad oggi i flavor di IA in cui più comunemente incappa il Giuseppe medio sono:
 - di Diffusione: come Stable Diffusion
 - GAN: addestrati con un processo che imita l'evoluzione biologica, come StyleGan
 
-I famosi LLM (Large Language Model), che simulano il linguaggio naturale in comprensione e in espressione, sono basati sui GPT, addestrati su massive banche di dati (rubati), e tendono ad attribuire ad una parola una posizione in uno spazio a miliardi di dimensioni (sarebbe a dire, individuano il significato di una parola con una serie di miliardi di valori numerici). Questi sono probabilmente le sedicenti "IA" più familiari a tutti.
+I famosi LLM (Large Language Model), che simulano il linguaggio naturale in comprensione e in espressione, sono basati sui GPT, addestrati su massive banche di dati (rubati), e tendono ad attribuire ad una parola una posizione in uno spazio a miliardi di dimensioni (sarebbe a dire, individuano il significato di una parola con una serie di miliardi di valori numerici, cioè un lunghissimo vettore). Questi sono probabilmente le sedicenti "IA" più familiari a tutti.
 
 ### E Data di Star Trek?
 
@@ -83,30 +83,31 @@ Iconico il caso dell'algoritmo PGP, sviluppato negli USA dall'attivista anti-nuc
 ### Principi
 
 Osserviamo allora quali principi deve seguire la cybersecurity per essere efficace:
-#### Riservatezza (Confidentiality):
 
+>[!info] Riservatezza (Confidentiality):
+>
 I non aventi diritto NON devono avere accesso ai dati protetti. 
 
-#### Integrità (Integrity):
-
+>[!check] Integrità (Integrity):
+>
 Il sistema deve essere resistente alla manomissione di sé stesso e dei propri contenuti.
 
-#### Disponibilità (Availability):
-
+>[!tip] Disponibilità (Availability):
+>
 Il sistema deve rimanere prontamente accessibile per gli aventi diritto. Questo potrebbe essere impedito da un attacco DoS (Denial of Service), in cui un server viene sovraccaricato di richieste per impedirgli di processare il flusso di dati che dovrebbe.
 
 I tre criteri appena osservati hanno come acronimo CIA, e sono stati elaborati dagli esperti di sicurezza della CIA. La realtà è come la poesia, rima. I tre successivi sono aggiunte più recenti, ma altrettanto importanti.
 
-#### Autenticità (Authenticity)
-
+>[!warning] Autenticità (Authenticity)
+>
 Il mittente di un messaggio deve essere tracciabile, ovvero non deve essere possibile fingere di essere qualcun altro (spoofing).
 
-#### Non-Ripudiabilità (Non-Ripudiability):
-
+>[!error] Non-Ripudiabilità (Non-Ripudiability):
+>
 Un sistema deve tenere traccia di chi ha fatto cosa. Pur legalmente obbligato, questo principio è quasi impossibile da far rispettare.
 
-#### Autorizzazione (Authorization):
-
+>[!example] Autorizzazione (Authorization):
+>
 Ad ogni utente devono essere garantiti solamente i privilegi necessari a svolgere il proprio lavoro. Questo è per evitare che una infiltrazione ai livelli più bassi (e vulnerabili) del sistema porti all'accesso di ruoli più autorevoli e i privilegi che ne conseguono.
 
 ## Una Psicoanalisi della IA
@@ -174,7 +175,9 @@ Al momento questo "complex" è fra gli enti che filtrano più denaro negli USA. 
 >[!warning] Caso Reale
 >Nel 5 maggio 2019 l'IDF fa saltare in aria una palazzina a Gaza, da loro identificata come una base di hacker collegati ad Hamas. Questo gesto completamente non necessario, con tanto di meme israeliano sui social media (classico format "Ho massacrato un mucchio di gente e niente fa già ridere così"), ha scatenato serie preoccupazioni online, in quanto la forza cinetica NON era al tempo considerata una risposta accettabile ad un attacco informatico. Tuttora non esistono informazioni attendibili sulle vittime.
 
-In un tempo di guerra ibrida [^2], l'obiettivo logistico può essere esteso ad infrastrutture di ogni tipo, digitali ma anche talvolta civili (pensiamo ai generatori elettrici in Ucraina, necessari alla produzione di droni da guerra, ma anche della sopravvivenza continuata del popolo ucraino).
+In conclusione, in un'epoca di guerra ibrida [^2], l'obiettivo logistico può essere esteso ad infrastrutture di ogni tipo, digitali ma anche talvolta civili (pensiamo ai generatori elettrici in Ucraina, necessari alla produzione di droni da guerra, ma anche della sopravvivenza continuata del popolo ucraino).
+
+---
 
 >[!bug] Mala Tempora Currunt.
 
@@ -183,4 +186,4 @@ In un tempo di guerra ibrida [^2], l'obiettivo logistico può essere esteso ad i
 
 [^1]: NdR: Sam Altman e Peter Thiel (OpenAi, Palantir) sono entrambi uomini nevrotici in relazioni omosessuali, Alex Karp (Palantir) è "sposato" con due donne diverse e pratica venti sport diversi ed ha una larga collezione di armi di ogni tipo, Mark Zuckerberg (Meta) era single fino a pochi anni fa prima di incontrare la sua partner corrente, che sostiene di avergli insegnato l'umanità (ulteriore ricerca necessaria), Elon Musk (Grok) ha avuto numerose relazioni con varie donne con le quali ha co-pubblicato circa 10 figli di cui ha poi optato di non curarsi particolarmente, arrivando a dire che uno di essi (transgender e progressista) fosse "morto" per via di vari contrasti che avevano avuto. 
 
-[^2]:  si intende ibrida fra informatica e tradizionale, ma mi piace che il termine sembri suggerire una ibridazione fra uomo e bestia, non ho la pazienza di ricercarlo adesso, ma c'è un passaggio dell'antico testamento che descrive la tentazione verso il peccato come una belva feroce intenzionata a procreare con gli esseri umani. 
+[^2]:  si intende ibrida fra informatica e tradizionale, ma mi piace che il termine sembri suggerire una ibridazione fra uomo e bestia, non ho la pazienza di ricercarlo adesso, ma c'è un passaggio dell'antico testamento che descrive la tentazione verso il peccato come una belva feroce in estro intenzionata a procreare con gli esseri umani. EDIT: ok è in Genesi 4:7, Dio si rivolge a Caino facendo riferimento ad una belva che lo "desidera", si può argomentare sia per divorarlo, ma nel resto del libro Caino viene marchiato come intoccabile e produce invece una progenie di uomini di scarsa integrità morale, come Lamech e Tubel-Cain (rispettivamente, il primo si vanta di vendicare ogni torto subito 77 volte e il secondo è accreditato come l'inventore delle armi da guerra nella mitologia ebraica, con l'implicazione che la sua crudeltà era tale da sorpassare la capacità delle sue mani di infliggere il male che bramava), che a mio avviso rispecchia la metafora dell'accoppiarsi con il peccato e generare il male molto più che non aggirarsi intorno ad esso ed esserne uccisi. Probabilmente questa nota a pié di pagina non sopravviverà a molti commit, ma potessi tornare indietro la riscriverei uguale.
