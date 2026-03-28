@@ -99,3 +99,6 @@ $G = \langle V, \Sigma, P, S \rangle$
 > In questo caso, questo linguaggio formale $G$ ci consente di scrivere varie frasi diverse.  
 > La frase che ci interesserà di più sarà:  
 > `"Aldo, Bianca e Carlo"`
+
+---
+◀️ _Back to:_ [[Linguaggi Formali e Compilatori]]

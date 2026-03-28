@@ -24,13 +24,13 @@
 * [[DPI-04]] - Privacy e perché è importante
 * [[DPI-05]] - Capacità di Agire e Autenticazione Online
 * [[DPI-06]] - Protezione e Trattamento dei Dati Personali, Contratti
-* [[DPI-07]] - Morte, Testamento e Piattaforme digitali 
-* [[DPI-08]] - 
+* [[DPI-07]] - missing
+* [[DPI-08]] - Morte, Testamento e Piattaforme digitali 
 * [[DPI-09]] - Responsabilità e Contatto Sociale
 * [[DPI-10]] - Citazione in giudizio e Danno cagionato da trattamento di dati personali
-* [[DPI-11]]
-* [[DPI-12]]
-* 
+* [[DPI-11]] - Guerra Ibrida con Giulia Q
+* [[DPI-12]] - missing
+
 
 ---
 ## 📁 Mappe di Alberto

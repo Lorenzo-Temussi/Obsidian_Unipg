@@ -14,3 +14,12 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 [[LFC-04]]
 
 
+## Appunti di Lorenzo Temussi:
+
+>[!check] Questa materia è bulissima. 
+>I miei appunti saranno molto accurati, e potrebbero anche contenere approfondimenti personali.
+
+[[LFC-]]
+[[LFC-02]] - Intro ai Linguaggi Formali
+[[LFC-03]] - Gerarchie di Chomsky
+[[LFC-04]] 
