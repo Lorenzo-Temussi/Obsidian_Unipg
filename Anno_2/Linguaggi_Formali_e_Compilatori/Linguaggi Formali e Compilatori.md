@@ -27,4 +27,7 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 [[LFC-04]] - Automi Deterministici a Stati Finiti
 [[LFC-05]] - Automi Non-Deterministici a Stati Finiti
 [[LFC-06]] - Epsilon-transizioni 
-[[LFC-07]] - Espressioni Regolari
+[[LFC-07]] - Espressioni Regolari I
+[[LFC-08]] - Espressioni Regolari II
+[[LFC-09]] - 
+
