@@ -11,23 +11,25 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 [[LFC-1]] - Compilatori
 
 
-
+---
 ## Appunti di Lorenzo Temussi:
 
 >[!check] Questa materia è bulissima. 
->I miei appunti saranno molto accurati, e potrebbero anche contenere approfondimenti personali.
+>I miei appunti sono molto accurati, e contengono easter eggs.
 
 >[!warning] Suddivisione Argomenti
 >Questa materia non copre esattamente un argomento ogni lezione, per evitare ripetizioni, anziché suddividere per lezioni ho suddiviso per argomenti.
 
 
 [[LFC-]]
-[[LFC-02]] - Intro ai Linguaggi Formali
-[[LFC-03]] - Gerarchie di Chomsky
-[[LFC-04]] - Automi Deterministici a Stati Finiti
-[[LFC-05]] - Automi Non-Deterministici a Stati Finiti
-[[LFC-06]] - Epsilon-transizioni 
-[[LFC-07]] - Espressioni Regolari I
-[[LFC-08]] - Espressioni Regolari II
-[[LFC-09]] - 
+[[LFC-02]] - Intro ai Linguaggi Formali  -  Aldo, Biovanni e Ciacomo
+[[LFC-03]] - Gerarchie di Chomsky  -  Un linguaggio su quattro ce la fa
+[[LFC-04]] - Automi Deterministici a Stati Finiti  -  Il nostro Strumentopolo Misterioso
+[[LFC-05]] - Automi Non-Deterministici a Stati Finiti  -  E come determinizzarli
+[[LFC-06]] - Epsilon-transizioni  -  Determinizziamo tutto!
+[[LFC-07]] - Espressioni Regolari I  -  My Beloved
+[[LFC-08]] - Espressioni Regolari II  -  Iteration Day
+[[LFC-09]] - Automi Minimi  -  Vietato l'accesso ai giocatori di Factorio
+[[LFC-10]] - Lemma di Iterazione per i Linguaggi Regolari  -  Il fra pensava di essere regolare
 
+---
