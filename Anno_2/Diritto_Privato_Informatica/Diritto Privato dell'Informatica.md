@@ -39,7 +39,7 @@
 - [[0-indice-capitoli.png]] 
 - [[1-diritti-fondamentali.png]]
 - [[2a-ai-quadro-generale-parte-1.png]]
-- [[2a-ai-quadro-generale-parte-2.png]]
+- [[2a-ai-quadro-generale-parte-2.png]]https://github.com/Lorenzo-Temussi/Obsidian_Unipg
 - [[2b-ai-giustizia-predittiva.png]]
 - [[3-minorenni-e-tecnlogie.png]]
 - [[doc1-ai-e-sicurezza-informatica.png]]
