@@ -26,7 +26,7 @@ Clicca sui link qui sotto per saltare direttamente all'indice del corso che ti i
 
 ### Semestre 1
 * [[Calcolo Numerico]]
-* [[Algoritmi e Strutture Dati 1]]
+* [[Algoritmi e Strutture Dati]]
 * [[Calcolo delle Probabilità e Statistica Matematica 1]]
 
 ### Semestre 2

@@ -31,5 +31,9 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 [[LFC-08]] - Espressioni Regolari II  -  Iteration Day
 [[LFC-09]] - Automi Minimi  -  Vietato l'accesso ai giocatori di Factorio
 [[LFC-10]] - Lemma di Iterazione per i Linguaggi Regolari  -  Il fra pensava di essere regolare
+[[LFC-11]] - Grammatiche Regolari - 
+[[LFC-12]] - Analisi Lessicale -
+[[LFC-13]] - Linguaggi non contestuali - 
+[[LFC-14]] - Semplificazione nelle Grammatiche non Contestuali - 
 
 ---
