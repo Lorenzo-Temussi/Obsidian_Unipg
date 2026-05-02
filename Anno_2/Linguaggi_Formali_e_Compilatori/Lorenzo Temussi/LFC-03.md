@@ -149,7 +149,7 @@ Algoritmi molto costosi possono risolvere i problemi di recognition e parsing pe
 | $S \rightarrow M$ | $M \rightarrow N\&N$ | $N \rightarrow b$ |
 |                   |                      | $N \rightarrow c$ |
 
-In altre parole, ogni produzione parte sempre e solo da un singolo simbolo.
+In altre parole, ogni produzione parte sempre e solo da un singolo simbolo, in una serie di simboli terminali e non.
 
 Gli algoritmi di recognition e parsing per grammatiche di tipo 2 sono effettivamente efficaci, e hanno importanti applicazioni nell'analisi sintattica.
 
