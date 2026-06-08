@@ -21,7 +21,7 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 >Questa materia non copre esattamente un argomento ogni lezione, per evitare ripetizioni, anziché suddividere per lezioni ho suddiviso per argomenti.
 
 
-[[LFC-]]
+[[LFC-1]]
 [[LFC-02]] - Intro ai Linguaggi Formali  -  Aldo, Biovanni e Ciacomo
 [[LFC-03]] - Gerarchie di Chomsky  -  Un linguaggio su quattro ce la fa
 [[LFC-04]] - Automi Deterministici a Stati Finiti  -  Il nostro Strumentopolo Misterioso

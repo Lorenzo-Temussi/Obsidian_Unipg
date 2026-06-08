@@ -50,21 +50,14 @@
 ---
 # 🤖 Appunti di Davide Maracaglia
 
-Riassunti di Davide **formattati utilizzando Gemini Pro 3.1 partendo da appunti presi durante le lezioni** (ovviamente il contenuto è stato revisionato).
+Riassunti di Davide partendo da appunti presi durante le lezioni.
 
 >[!warning] Affidabilità:
->Non essendo uno studente di Giurisprudenza non sono un esperto, potrebbbero esserci buchi dentro le lezioni causa mia distrazione.
+>Essendo una persona distratta, potrebbbero esserci specifiche informazioni assenti ed errori grammaticali.
 
-- [[01_INTRODUZIONE_ORDINAMENTO_FONTI]] | *Date: 2026-02-09*
-- [[02_AI-ACT-SOGGETIVITA-GIURIDICA]] | *Date: 2026-02-11*
-- [[03_AI-ACT-DIRITTO-AUTORE]] | *Date: 2026-02-16*
-- [[04_DATA-PROTECION-DIRITTI-FOND]] | *Date: 2026-02-18*
-- [[05_CAPACITA-AGIRE-GENITORI-MINORI]] | *Date: 2026-02-23*
-- [[06_Trattamento_dati_Normative_Contrattuali]] | *Date: 2026-02-25*
-- [[07_Fondamenti_Cybersicurezza]] | *Date: 2026-03-02*
-- [[08_Successione]] | *Date: 2026-03-04*
-- [[09_Responsabilità_Piattaforme]] | *Date: 2026-03-09*
-- [[10_Responsabilita_Civile]] | *Date: 2026-03-16*
+- [[Appunti_Diritto.pdf]]
+
+
 
 ---
 # 💻 Appunti di Filippo Castagnola
