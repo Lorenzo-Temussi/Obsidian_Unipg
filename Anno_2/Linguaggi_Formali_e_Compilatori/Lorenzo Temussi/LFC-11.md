@@ -27,7 +27,7 @@ Possiamo costruire un automa non deterministico $A$ a partire da una Grammatica 
 
 Se la parola vuota è inclusa nel linguaggio, allora anche $S$ deve essere uno stato finale.
 
-## Dalla Grammatica all'Automa
+## Dall'Automa alla Grammatica
 ---
 
 Possiamo costruire una Grammatica Regolare G a partire da un automa non deterministico $A$:

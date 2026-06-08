@@ -31,9 +31,12 @@ Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50
 [[LFC-08]] - Espressioni Regolari II  -  Iteration Day
 [[LFC-09]] - Automi Minimi  -  Vietato l'accesso ai giocatori di Factorio
 [[LFC-10]] - Lemma di Iterazione per i Linguaggi Regolari  -  Il fra pensava di essere regolare
-[[LFC-11]] - Grammatiche Regolari - 
-[[LFC-12]] - Analisi Lessicale -
-[[LFC-13]] - Linguaggi non contestuali - 
+[[LFC-11]] - Grammatiche Regolari - Electric Boogaloo
+[[LFC-12]] - Analisi Lessicale - Primo peek alla compilazione
+[[LFC-13]] - Linguaggi non contestuali - Ay, Zas Bredy Good
 [[LFC-14]] - Semplificazione nelle Grammatiche non Contestuali - 
+[[LFC-15]] - Forma Normale di Chomsky - Questa non è neanche la mia forma normale
+[[LFC-16]] - Lemma di iterazione per i linguaggi non contestuali - Gli orchi hanno gli strati
+
 
 ---
