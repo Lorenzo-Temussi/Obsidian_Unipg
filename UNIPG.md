@@ -44,4 +44,9 @@ Clicca sui link qui sotto per saltare direttamente all'indice del corso che ti i
 ### Semestre 2
 
 ---
+
+## Risorsa integrativa
+* [Guida italiana a TypeScript](https://gibbok.github.io/typescript-book/it-it/) — libro gratuito e open source per lo sviluppo web
+
+---
 *Se vuoi aggiungere un nuovo corso, ricorda di aggiornare questo elenco!*
