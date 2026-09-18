@@ -1,12 +1,16 @@
-
-
+---
+aliases:
+tags:
+  - unipg
+  - anno-3
+---
+# 📘 Tecniche di Acquisizione Dati
 
 > [!info] ℹ️ Informazioni sul Corso
-> **Professore:** Mattia Barbanera
-> **Anno/Semestre:** 3° Anno, 2° Semestre, A scelta
-> **CFU:** 6
-> 
-> 🔗 [[Pagina UNISTUDIUM](link da aaggiungere)
->  
-> **Descrizione**: Familiarizzare lo studente con le caratteristiche e funzionalità di chip logici digitali programmabili (FPGA, Field Programmable Gate Array)
- 
+> 🔗 [Pagina UNISTUDIUM](https://unistudium.unipg.it)
+
+---
+
+## ✍️ Appunti
+
+*Nessun appunto presente al momento.*

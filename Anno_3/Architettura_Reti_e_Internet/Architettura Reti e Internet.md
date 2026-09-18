@@ -1,10 +1,17 @@
-
+---
+aliases:
+tags:
+  - unipg
+  - anno-3
+---
+# 📘 Architettura Reti e Internet
 
 > [!info] ℹ️ Informazioni sul Corso
-> **Professore:** Osvaldo Gervasi
-> **Anno/Semestre:** 3° Anno, 2° Semestre
-> **CFU:** 9
-> 
-> 🔗 [[Pagina UNISTUDIUM](link da aggiungere)
->  
-> **Descrizione**: Un esame di [[UNIPG]] che esplora la dimensione legale delle nuove tecnologie, particolarmente per quanto concerne profili social e IA.
+> 🔗 [Pagina UNISTUDIUM](https://unistudium.unipg.it)
+
+---
+
+## ✍️ Appunti e Slide (Protocolli e Reti)
+
+* [[Appunti_Slide.md]] - Teoria e riassunto completo delle slide del corso
+* [[Appunti_Slide.pdf]] - Versione PDF delle slide / appunti

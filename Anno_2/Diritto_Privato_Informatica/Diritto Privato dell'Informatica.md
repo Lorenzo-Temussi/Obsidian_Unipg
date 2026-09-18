@@ -1,22 +1,24 @@
-
+---
+aliases:
+tags:
+  - unipg
+  - anno-2
+---
+# 📘 Diritto Privato dell'Informatica
 
 > [!info] ℹ️ Informazioni sul Corso
-> **Professore:** Stefania Stefanelli
 > **Anno/Semestre:** 2° Anno, 2° Semestre
-> **CFU:** 6
-> 
-> 🔗 [[Pagina UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=49804)
->  
-> **Descrizione**: Un esame di [[UNIPG]] che esplora la dimensione legale delle nuove tecnologie, particolarmente per quanto concerne profili social e IA.
-
+> **CFU:** 6 CFU
+> 🔗 [Pagina UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=49804)
+> 🎯 **Obiettivo del corso:** Un esame di Diritto Privato (nonostante non è roba nostra)
 
 ---
 
 ## ✍️ Appunti di Lorenzo Temussi
 *Riassunti delle lezioni spettate in presenza / a distanza, trascritti da Lorenzo Temussi*
 
->[!warning] Affidabilità:
->Questa è una materia che non conosco bene e ho qualche problema di concentrazione, la qualità degli appunti probabilmente non è stellare.
+> [!warning] ⚠️ Affidabilità
+> Questa è una materia che non conosco bene e ho qualche problema di concentrazione, la qualità degli appunti probabilmente non è stellare.
 
 * [[DPI-01]] - L'ordinamento della Legge
 * [[DPI-02]] - Persone Legali e Sistemi IA
@@ -31,41 +33,23 @@
 * [[DPI-11]] - Guerra Ibrida con Giulia Q
 * [[DPI-12]] - missing
 
-
 ---
-## 📁 Mappe di Alberto
-*Grafici a diagramma sui singoli argomenti, prodotti da Alberto*
 
-- [[0-indice-capitoli.png]] 
-- [[1-diritti-fondamentali.png]]
-- [[2a-ai-quadro-generale-parte-1.png]]
-- [[2a-ai-quadro-generale-parte-2.png]]https://github.com/Lorenzo-Temussi/Obsidian_Unipg
-- [[2b-ai-giustizia-predittiva.png]]
-- [[3-minorenni-e-tecnlogie.png]]
-- [[doc1-ai-e-sicurezza-informatica.png]]
-- [[doc2-it-risk-management.png]]
-- [[doc3-risk-management.png]]
-- [[slide-fonti-del-diritto.png]]
+## ✍️ Appunti di DavideM
+*Riassunti di Davide partendo da appunti presi durante le lezioni.*
 
----
-# 🤖 Appunti di Davide Maracaglia
-
-Riassunti di Davide partendo da appunti presi durante le lezioni.
-
->[!warning] Affidabilità:
->Essendo una persona distratta, potrebbbero esserci specifiche informazioni assenti ed errori grammaticali.
+> [!warning] ⚠️ Affidabilità
+> Essendo una persona distratta, potrebbero esserci specifiche informazioni assenti ed errori grammaticali.
 
 - [[Appunti_Diritto.pdf]]
 
-
-
 ---
-# 💻 Appunti di Filippo Castagnola
 
-Riassunti di Filippo, presi durante le lezioni in presenza e formattati in seguito.
+## ✍️ Appunti di Filippo Castagnola
+*Riassunti di Filippo, presi durante le lezioni in presenza e formattati in seguito.*
 
->[!warning] Affidabilità:
-> Gli appunti di per se non sono della migliore qualità ma, messi a confronto con quelli presi dai colleghi, le eventuali lacune presenti (che siano per assenza durante le lezioni o per mancata attenzione) vengono coperte.
+> [!warning] ⚠️ Affidabilità
+> Gli appunti di per sé non sono della migliore qualità ma, messi a confronto con quelli presi dai colleghi, le eventuali lacune presenti vengono coperte.
 
 - [[01 Diritto]]
 - [[02 Diritto - Diritti d'autore]]
@@ -73,3 +57,19 @@ Riassunti di Filippo, presi durante le lezioni in presenza e formattati in segui
 - [[04 Diritto 23-02]]
 - [[05 Diritto - Contratti]]
 - [[06 Diritto - Testamenti]]
+
+---
+
+## 📁 Mappe di Alberto
+*Grafici a diagramma sui singoli argomenti, prodotti da Alberto*
+
+- [[0-indice-capitoli.png]] 
+- [[1-diritti-fondamentali.png]]
+- [[2a-ai-quadro-generale-parte-1.png]]
+- [[2a-ai-quadro-generale-parte-2.png]]
+- [[2b-ai-giustizia-predittiva.png]]
+- [[3-minorenni-e-tecnlogie.png]]
+- [[doc1-ai-e-sicurezza-informatica.png]]
+- [[doc2-it-risk-management.png]]
+- [[doc3-risk-management.png]]
+- [[slide-fonti-del-diritto.png]]

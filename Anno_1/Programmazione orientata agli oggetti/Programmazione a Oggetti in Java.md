@@ -1,9 +1,22 @@
-Un esame [[UNIPG]] dedicato all'apprendimento e all'applicazione pratica del linguaggio di programmazione Java.
+---
+aliases:
+tags:
+  - unipg
+  - anno-1
+---
+# 📘 Programmazione a Oggetti in Java
 
-**RIASSUNTO DEL PROGRAMMA** di Francesco De Luca
+> [!info] ℹ️ Informazioni sul Corso
+> **Anno/Semestre:** 1° Anno, 2° Semestre
+> **CFU:** 6 CFU
+> 🔗 [Pagina UNISTUDIUM](https://unistudium.unipg.it)
+> 🎯 **Obiettivo del corso:** Un esame in cui si usa Java 11 (viva il 2015)
 
+---
 
->[!warning]  WARNING!
->Potrebbe non essere accurato; è stato creato come appoggio allo studio, non come sostituzione alle lezioni.
+## ✍️ Appunti di Francesco De Luca
 
-[[JAVA.pdf]]
+> [!warning] ⚠️ Note e Avvisi
+> Potrebbe non essere accurato; è stato creato come appoggio allo studio, non come sostituzione alle lezioni.
+
+* [[JAVA.pdf]] - Riassunto del programma

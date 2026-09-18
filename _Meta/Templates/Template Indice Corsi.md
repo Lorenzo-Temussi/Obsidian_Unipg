@@ -1,35 +1,34 @@
 # 📘 [Nome Corso]
 
 > [!info] ℹ️ Informazioni sul Corso
-> **Professore:** [Nome Prof]
 > **Anno/Semestre:** [° Anno, ° Semestre]
 > **CFU:** [Numero Crediti]
 > 🔗 [UNISTUDIUM]
-> 🎯 **Obiettivo del corso:** [Breve descrizione del corso daje]
+> 🎯 **Obiettivo del corso:** [Breve descrizione del corso]
 
 > [!warning] ⚠️ Note e Avvisi
-> [blablablabla]
+> [Note generali sul corso o sullo studio]
 
 ---
 
 ## ✍️ Appunti di [Nome Autore 1]
-*blablabla.*
+*Descrizione appunti*
 
-* [[nomepagina1]] - [er titolo 1]
-* [[nomepagina2]] - [er titolo 2]
+* [[nomepagina1]] - [Titolo argomento 1]
+* [[nomepagina2]] - [Titolo argomento 2]
 
 ---
 
 ## ✍️ Appunti di [Nome Autore 2]
-*blablabla.*
+*Descrizione appunti*
 
-* [[nomepagina1]] - [er titolo 1]
-* [[nomepagina2]] - [er titolo 2]
+* [[nomepagina1]] - [Titolo argomento 1]
+* [[nomepagina2]] - [Titolo argomento 2]
 
 ---
 
 ## 📁 Materiale Extra e Preparazione
-*blablablabla.*
+*Descrizione materiale*
 
 * [[Raccolta_Esercizi_Svolti]]
 * [[Domande_Frequenti_Orale]]
