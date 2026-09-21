@@ -19,5 +19,9 @@ tags:
 * [[IDS-2]] - Modelli di processo, Ruoli e Incrementi
 * [[IDS-3]]
 * [[IDS-4]]
-* [[IDS-5]]
-* [[IDS-6]]
+###  Appunti di DavideM
+
+> [!warning] Collab potentissima 
+> Materiale nato in collaborazione tra Davide e David 
+
+* [[01_Fondamenti_Ingegneria_Software.pdf]] - Appunti completi del corso (2025/26)
