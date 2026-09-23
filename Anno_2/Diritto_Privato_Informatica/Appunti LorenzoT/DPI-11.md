@@ -26,7 +26,7 @@ La successione di eventi che portano a questo risultato, che chiameremo fiducios
 - Visto che questo modello è così umanitario, Palantir, una società che produce (a tutti gli effetti) infrastrutture centralizzate di spionaggio dei cittadini americani, e che è ammanicata oltre ogni dire con il governo USA corrente, decide di utilizzarlo come base, insieme ad altre tecnologie, tra cui il Percettrone, per il proprio prodotto Maven Smart System.
 - Il ministero della Difesa US impiega questa tecnologia per segnalare obiettivi interessanti da annientare durante le azioni militari.
 - Gli US entrano in guerra contro l'Iran su diretta richiesta di Israele e per i propri obiettivi strategici.
-- Gli US polverizzano una scuola elementare con 180 persone all'interno.
+- Gli US polverizzano una scuola elementare con 180 civili all'interno.
 
 Essendo il corso mirato alla parte di cybersecurity e diritto dell'informatica, ignoreremo temporaneamente tutti i punti di fallimento che non si rifacciano direttamente al nostro ambito di studio (Trump è uno sconsiderato, Nethanyau è un guerrafondaio, l'esercito degli USA è eccessivamente sviluppato considerato che non ci sono guerre mondiali in vista, e simili...).
 
@@ -68,7 +68,7 @@ L'Intelligenza Artificiale dei libri, indistinguibile dall'intelligenza umana e 
 >[!quote] Ma Elon Musk ha detto:
 >"In cinque anni avremo una AGI (Aritificial General Intelligence) pienamente funzionale."
 
-Lo dice da più di dieci anni e fonti attendibili suggeriscono che non sappia neanche usare Ren'Py. Quindi io credo che non sia vero.
+Lo dice da più di dieci anni e fonti attendibili suggeriscono che non sappia ancora la differenza fra computer e monitor. Quindi io credo che non sia vero. 
 
 Anche il fatto che ancora non sappiamo nemmeno da dove iniziare per sviluppare una cosa del genere con la tecnologia corrente gioca la sua parte.
 
@@ -82,7 +82,7 @@ Iconico il caso dell'algoritmo PGP, sviluppato negli USA dall'attivista anti-nuc
 
 ### Principi
 
-Osserviamo allora quali principi deve seguire la cybersecurity per essere efficace:
+Osserviamo allora quali sono gli obiettivi della cybersecurity per un dato sistema contenente dati:
 
 >[!info] Riservatezza (Confidentiality):
 >
@@ -184,6 +184,6 @@ In conclusione, in un'epoca di guerra ibrida [^2], l'obiettivo logistico può es
 ---
 ◀️ *Back to [[Diritto Privato dell'Informatica]].*
 
-[^1]: NdR: Sam Altman e Peter Thiel (OpenAi, Palantir) sono entrambi uomini nevrotici in relazioni omosessuali, Alex Karp (Palantir) è "sposato" con due donne diverse e pratica venti sport diversi ed ha una larga collezione di armi di ogni tipo, Mark Zuckerberg (Meta) era single fino a pochi anni fa prima di incontrare la sua partner corrente, che sostiene di avergli insegnato l'umanità (ulteriore ricerca necessaria), Elon Musk (Grok) ha avuto numerose relazioni con varie donne con le quali ha co-pubblicato circa 10 figli di cui ha poi optato di non curarsi particolarmente, arrivando a dire che uno di essi (transgender e progressista) fosse "morto" per via di vari contrasti che avevano avuto. 
+[^1]: NdR: Sam Altman e Peter Thiel (OpenAi, Palantir) sono entrambi uomini nevrotici in relazioni omosessuali, Alex Karp (Palantir) è "sposato" con due donne diverse e pratica venti sport diversi ed ha una larga collezione di armi di ogni tipo, Mark Zuckerberg (Meta) era single fino a pochi anni fa prima di incontrare la sua partner corrente, che sostiene di avergli insegnato l'umanità (ulteriore ricerca necessaria), Elon Musk (Grok) ha avuto numerose relazioni con varie donne con le quali ha co-pubblicato circa 10 figli di cui ha poi optato di non curarsi particolarmente, arrivando a dire che uno di essi (transgender e progressista) fosse "morto" per via di vari contrasti che avevano avuto. EDIT: ad oggi 12/06/2026 Elon è ancora più scappato di testa di prima, gli altri sono rimasti là dove stavano.
 
-[^2]:  si intende ibrida fra informatica e tradizionale, ma mi piace che il termine sembri suggerire una ibridazione fra uomo e bestia, non ho la pazienza di ricercarlo adesso, ma c'è un passaggio dell'antico testamento che descrive la tentazione verso il peccato come una belva feroce in estro intenzionata a procreare con gli esseri umani. EDIT: ok è in Genesi 4:7, JHWH si rivolge a Caino facendo riferimento ad una belva che lo "desidera", si può argomentare sia per divorarlo, ma nel resto del libro Caino viene marchiato come intoccabile e produce invece una progenie di uomini di scarsa integrità morale, come Lamech e Tubel-Cain (rispettivamente, il primo si vanta di vendicare ogni torto subito 77 volte e il secondo è accreditato come l'inventore delle armi da guerra nella mitologia ebraica, con l'implicazione che la sua crudeltà era tale da sorpassare la capacità delle sue mani di infliggere il male che bramava), che a mio avviso rispecchia la metafora dell'accoppiarsi con il peccato e generare il male molto più che non aggirarsi intorno ad esso ed esserne uccisi. Probabilmente questa nota a pié di pagina non sopravviverà a molti commit, ma potessi tornare indietro la riscriverei uguale.
+[^2]:  si intende ibrida fra informatica e tradizionale, ma mi piace che il termine sembri suggerire una ibridazione fra uomo e bestia, non ho la pazienza di ricercarlo adesso, ma c'è un passaggio dell'antico testamento che descrive la tentazione verso il peccato come una belva feroce in estro intenzionata a procreare con gli esseri umani. EDIT: ok è in Genesi 4:7, JHWH si rivolge a Caino facendo riferimento ad una belva che lo "desidera", si può argomentare sia per divorarlo, ma nel resto del libro Caino viene marchiato come intoccabile e produce invece una progenie di uomini di scarsa integrità morale, come Lamech e Tubel-Cain (rispettivamente, il primo è un uomo adulto che si vanta di vendicare ogni torto subito 77 volte, e di uccidere i bambini che gli fanno i dispetti, e il secondo è accreditato come l'inventore delle armi da guerra nella mitologia ebraica, con l'implicazione che la sua crudeltà era tale da sorpassare la capacità delle sue mani di infliggere il male che bramava), che a mio avviso rispecchia la metafora dell'accoppiarsi con il peccato e generare il male molto più che non aggirarsi intorno ad esso ed esserne uccisi. Probabilmente questa nota a pié di pagina non sopravviverà a molti commit, ma potessi tornare indietro la riscriverei uguale.

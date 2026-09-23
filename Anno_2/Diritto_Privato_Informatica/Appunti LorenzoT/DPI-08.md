@@ -43,7 +43,7 @@ Fra i beni non ereditabili figurano l'usucapione, e taluni specifici diritti del
 ## Morte Digitale
 
 La morte digitale non corrisponde con la morte reale del soggetto. Alcuni macabri servizi offrono di mantenere l'account del decuius attivo e addirittura fargli produrre content con l'IA.
-Questo è un ambito che il GDPR non regola. Meta offre un servizio sostitutivo del testamento con il quale l'utente può decidere quale sorte riservare al proprio profilo (le opzioni solo la disattivazione, l'impagliamento[^3], o la trasmissione agli eredi dei diritti d'accesso).
+Questo è un ambito che il GDPR non regola. Meta offre un servizio sostitutivo del testamento con il quale l'utente può decidere quale sorte riservare al proprio profilo (le opzioni sono la disattivazione, l'impagliamento[^3], o la trasmissione agli eredi dei diritti d'accesso).
 
 L'eredità è estesa ai contenuti digitali e alle licenze d'uso di servizi digitali per la loro durata (questa legge esiste in parte perché l'attore statunitense Bruce Willis aveva lamentato la non-trasferibilità della sua vasta collezione di media, principalmente film, ai figli).
 

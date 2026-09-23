@@ -11,6 +11,6 @@ tags:
 
 ---
 
-## ✍️ Appunti
+## ✍️ Appunti di Lorenzo Temussi
 
-*Nessun appunto presente al momento.*
+* [[BDSI-01]] - Introduzione e definizioni 
